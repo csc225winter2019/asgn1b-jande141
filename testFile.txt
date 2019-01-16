@@ -1,0 +1,18 @@
+Justin Anderson
+CSC 225 Assignment 1b writeup
+
+Part One:
+1.	Ox0000
+2.	0000010010100000
+3.	X7FFF
+4.	0110, LDR
+
+Part Two:
+1.	A. x0064
+B. 35
+2.	0x 0087
+
+Part Three:
+1.	A. 0x 1220
+B. 0x 5020
+C. 0x 503B
